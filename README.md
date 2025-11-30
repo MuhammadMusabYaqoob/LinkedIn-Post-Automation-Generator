@@ -1,5 +1,5 @@
 # LinkedIn AI Post Generator – Automated LinkedIn Content Creation
-This workflow automatically generates professional motivational LinkedIn posts using **n8n**, **OpenRouter AI** and **FLUX Image Generation** — producing quotes, explanations, hashtags, AI images and posting them to LinkedIn without manual effort.
+This workflow automatically generates professional motivational LinkedIn posts using **n8n**, **OpenRouter AI** and **FLUX Image Generation** - producing quotes, explanations, hashtags, AI images and posting them to LinkedIn without manual effort.
 ## 🚀 Features
 - Fetches motivational quotes automatically  
 - Generates a cinematic visual description using AI  
