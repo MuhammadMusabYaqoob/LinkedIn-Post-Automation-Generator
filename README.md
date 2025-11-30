@@ -15,8 +15,20 @@ This workflow automatically generates professional motivational LinkedIn posts u
 ## 🧭 Workflow Diagram
 ![Workflow Diagram](workflow.png)
 
-## 🎥 Demo Video
-[▶️ Click here to view the demo](demo.mp4) 
+## ▶️ Demo Preview
+
+<p align="center">
+  <a href="demo.mp4">
+    <img src="https://img.shields.io/badge/▶️ Click_to_Watch_Demo-FF0000?style=for-the-badge" width="300"/>
+  </a>
+</p>
+
+<p align="center">
+  <video width="700" controls>
+    <source src="demo.mp4" type="video/mp4">
+  </video>
+</p>
+
 
 ## 🧩 Tech Stack
 - **n8n** – Automation engine  
@@ -35,13 +47,16 @@ This workflow automatically generates professional motivational LinkedIn posts u
 ## 🖼️ Example Output
 ### Caption Example
 ```
-The less you open your heart to others, the more your heart suffers.
-— Deepak Chopra
+Some people want it to happen, some wish it would happen, others make it happen. - Michael Jordan
 
-True strength begins with vulnerability. When we shut people out, we create walls that isolate us from growth and healing. Opening your heart is an act of courage that invites clarity, connection, and emotional freedom.
+I have learned through years of professional challenges that true progress demands more than desire or hope. It requires stepping into the arena with resolve, turning vision into action through disciplined effort and strategic choices. In my own path, this shift from passive longing to proactive creation unlocked doors I once only imagined.
+
+You hold that power too.
+
+**Key Takeaway:** Embrace the maker's mindset, and transform your ambitions into achievements.
 ```
 ### Hashtags Example
-`#motivation #mindset #psychology #growthmindset #lifelessons #selfimprovement #habits #inspiration #learning #wisdom`
+`#motivation hashtag#mindset hashtag#lifelessons hashtag#inspiration hashtag#action hashtag#personalgrowth hashtag#wisdom hashtag#psychology hashtag#success`
 
 ### Image Example
 *(Generated using **FLUX.1 Schnell**, no text inside the image)*  
