@@ -58,7 +58,7 @@ You hold that power too.
 `#motivation hashtag#mindset hashtag#lifelessons hashtag#inspiration hashtag#action hashtag#personalgrowth hashtag#wisdom hashtag#psychology hashtag#success`
 
 ### Image Example
-*(Generated using **FLUX.1 Schnell**, no text inside the image)*  
+*(Generated using **FLUX.1 Schnell**  
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/028f44e6-fc8d-495c-a555-9e106002c385" />
 
 
