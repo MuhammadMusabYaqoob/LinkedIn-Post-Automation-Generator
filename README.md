@@ -45,7 +45,7 @@ True strength begins with vulnerability. When we shut people out, we create wall
 
 ### Image Example
 *(Generated using **FLUX.1 Schnell**, no text inside the image)*  
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/028f44e6-fc8d-495c-a555-9e106002c385" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/028f44e6-fc8d-495c-a555-9e106002c385" />
 
 
 ## 🧑‍💻 Author
