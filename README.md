@@ -35,7 +35,6 @@ This workflow automatically generates professional motivational LinkedIn posts u
 - **OpenRouter (LLM)** – AI explanation + hashtags  
 - **FLUX.1 Schnell (HuggingFace Router)** – Cinematic image generation  
 - **JavaScript (n8n Code Node)** – Quote parsing  
-- **LinkedIn API (OAuth 2.0)** – Auto publishing
 - 
 ## 🧠 Key Highlights
 - Generates viral-style LinkedIn content automatically  
