@@ -47,15 +47,6 @@ True strength begins with vulnerability. When we shut people out, we create wall
 *(Generated using **FLUX.1 Schnell**, no text inside the image)*  
 (Add your actual image here)
 
-## 📂 Example Node Outputs
-| Step | Output |
-|------|--------|
-| Quote | “The less you open your heart…” |
-| Explanation | 60–120 word motivational paragraph |
-| Hashtags | 12–18 curated tags |
-| Image Description | Cinematic visual prompt |
-| Image | FLUX-generated artwork |
-| Final Output | Automatically posted to LinkedIn |
 ## 🧑‍💻 Author
 **Muhammad Musab**  
 🌐 https://github.com/muhammadmusabyaqoob
